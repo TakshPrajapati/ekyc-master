@@ -1,17 +1,16 @@
 
-<p align="center">
-  <img src="https://github.com/varunmamtora06/ekyc/blob/master/assets/DisplayImage.PNG" width="720px" height="360px" alt="ekyc" title="EKYC"/>
-</p>
 
-
+`yaml
 ### Problem Statement (PS) 
 
-- Earlier KYC verification was done in person,but due to COVID-19, this can't be done
-- Banks are trying a way to implement a way to perform KYC virtually, since KYC procedures defined by banks are to ensure their customers are real, and to assess, and monitor risks.
-- The user needs to upload the necessary  government documents, eg: Aadhar card, PAN card, voter-id, electricity-bill.
-- After uploading the documents the person needs to submit a 10 sec video to determine that the person uploading these documents is a legit user.
-- The web application incorporates machine learning for recognizing and matching the faces of user with the documents uploaded.
+- Currently Know Your Customer (KYC) is largely an offline and manual process OR non-interactive online process.  
+- Create an online interactive process to do video KYC which is intuitive and self-sufficient. KYC should capture the user’s live photograph
+- and their basic details like name, DOB, address, pan card / Aadhaar, signature, income range, type of employment in a conversational manner.
+- This tool should be highly inclusive and should have high reach across languages and generations irrespective of financial and education gap.
 
+###Demo Link
+
+ - https://drive.google.com/file/d/1tY9AbCOFxBJVhypXV9lVotZn1Bu6gG7k/view?usp=sharing
 
 
 <!-- about us & view patient -->
@@ -38,4 +37,4 @@
 - Setup virtual environment
 - Exceute `pip install -r requirements.txt`.
 - run `python manage.py runserver`.
-- Go to `127.0.0.1::8000` in your web browser.
+- Go to `127.0.0.1::8000` in your web browser.`
