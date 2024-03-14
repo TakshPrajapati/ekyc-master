@@ -11,6 +11,7 @@
 ### Demo Link
 
  - https://drive.google.com/file/d/1tY9AbCOFxBJVhypXV9lVotZn1Bu6gG7k/view?usp=sharing
+ - Applied 2FA step to verify KYC using RPA
 
 
 <!-- about us & view patient -->
