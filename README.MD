@@ -1,6 +1,6 @@
 
 
-`yaml
+`
 ### Problem Statement (PS) 
 
 - Currently Know Your Customer (KYC) is largely an offline and manual process OR non-interactive online process.  
