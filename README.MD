@@ -9,8 +9,8 @@
 - This tool should be highly inclusive and should have high reach across languages and generations irrespective of financial and education gap.
 
 ### 2-Step Authentification 
-Step1: Video transcript authentification by reading the Generated Code on the Screen and creating the video by reading it.
-Step2: After filtering verified users from Step1, the backend team looks into the video manually to ensure the verified users.
+- Step1: Video transcript authentification by reading the Generated Code on the Screen and creating the video by reading it.
+- Step2: After filtering verified users from Step1, the backend team looks into the video manually to ensure the verified users.
 
 ### Demo Link
 
