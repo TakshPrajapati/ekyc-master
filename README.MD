@@ -3,10 +3,14 @@
 `
 ### Problem Statement (PS) 
 
-- Currently Know Your Customer (KYC) is largely an offline and manual process OR non-interactive online process.  
+- Currently, Know Your Customer (KYC) is largely an offline and manual process OR non-interactive online process.  
 - Create an online interactive process to do video KYC which is intuitive and self-sufficient. KYC should capture the user’s live photograph
-- and their basic details like name, DOB, address, pan card / Aadhaar, signature, income range, type of employment in a conversational manner.
+- and their basic details like name, DOB, address, PAN card / Aadhaar, signature, income range, and type of employment in a conversational manner.
 - This tool should be highly inclusive and should have high reach across languages and generations irrespective of financial and education gap.
+
+### 2-Step Authentification 
+Step1: Video transcript authentification by reading the Generated Code on the Screen and creating the video by reading it.
+Step2: After filtering verified users from Step1, the backend team looks into the video manually to ensure the verified users.
 
 ### Demo Link
 
